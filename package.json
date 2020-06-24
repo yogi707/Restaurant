@@ -5,8 +5,8 @@
   "main": "index.html",
   "scripts": {
     "start": "npm run lite",
-    "test": "echo \"Error: no test specified\" && exit 1"
-    ,"lite": "lite-server"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,10 @@
   "homepage": "https://github.com/yogi707/react#readme",
   "devDependencies": {
     "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
   }
 }
