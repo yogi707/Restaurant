@@ -45,3 +45,17 @@ body{
 {
     background-color: #512DAB;
 }
+
+.hcolor
+{
+    background-color: rgb(236, 186, 60);
+    
+}
+
+.tab-content
+{
+    border-left: 1px solid rgb(219, 208, 208);
+    border-right: 1px solid rgb(235, 230, 230);
+    border-bottom: 1px solid rgb(226, 219, 219);
+    padding: 10px;
+}
