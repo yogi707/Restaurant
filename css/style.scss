@@ -96,3 +96,19 @@ body{
     color: rgb(245, 239, 239);
     font-weight: 500;
 }
+
+.modal-header
+{
+    background-color: $background-dark;
+    color: floralwhite;
+}
+
+.modal-body
+{
+   background-color: $background-pale;
+}
+.modelbtn-color
+{
+    
+    color: floralwhite;
+}

@@ -67,3 +67,13 @@ body {
   font-size: small;
   color: #f5efef;
   font-weight: 500; }
+
+.modal-header {
+  background-color: #512DA8;
+  color: floralwhite; }
+
+.modal-body {
+  background-color: #D1C4E9; }
+
+.modelbtn-color {
+  color: floralwhite; }
